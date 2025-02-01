@@ -1,7 +1,7 @@
 Đảo Trống (Tạm),DaoTrong
 Skypiea (Full chưa có vị trí boss),Skypiea
 Sa Quốc (Ngon),SaQuoc
-Thành Thiên Cung (Ngon),ThanhThienCung
+Thành Thiên Cung (Full chưa có vị trí boss map 1),ThanhThienCung
 Núi Bánh Bao (Cần update),NuiBanhBao
 Hành Tinh Namek (Full chưa có vị trí boss),HanhTinhNamek
 Thành Phố Tokyo (Ngon),ThanhPhoTokyoMoi
