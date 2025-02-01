@@ -1,12 +1,12 @@
-Đảo Trống,DaoTrong
-Skypiea,Skypiea
-Sa Quốc,SaQuoc
-Thành Thiên Cung,ThanhThienCung
-Núi Bánh Bao,NuiBanhBao
-Hành Tinh Namek,HanhTinhNamek
-Thành Phố Tokyo,ThanhPhoTokyoMoi
-Khu 11,Khu11
-Aincrad,Aincrad
-Thành Phố Fuyuki,ThanhPhoFuyuki
-Kaz Plain,KazPlain
-Núi Kumotori,NuiKumotori
+Đảo Trống (Tạm),DaoTrong
+Skypiea (Full chưa có vị trí boss),Skypiea
+Sa Quốc (Ngon),SaQuoc
+Thành Thiên Cung (Ngon),ThanhThienCung
+Núi Bánh Bao (Cần update),NuiBanhBao
+Hành Tinh Namek (Full chưa có vị trí boss),HanhTinhNamek
+Thành Phố Tokyo (Ngon),ThanhPhoTokyoMoi
+Khu 11 (Chưa full map 3),Khu11
+Aincrad (Full chưa có vị trí boss),Aincrad
+Thành Phố Fuyuki (Cần update map 2,3),ThanhPhoFuyuki
+Kaz Plain (Cần update),KazPlain
+Núi Kumotori (Tạm),NuiKumotori
