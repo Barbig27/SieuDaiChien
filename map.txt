@@ -7,6 +7,6 @@ Hành Tinh Namek (Full chưa có vị trí boss),HanhTinhNamek
 Thành Phố Tokyo (Ngon),ThanhPhoTokyoMoi
 Khu 11 (Chưa full map 3),Khu11
 Aincrad (Full chưa có vị trí boss),Aincrad
-Thành Phố Fuyuki (Cần update map 2,3),ThanhPhoFuyuki
+Thành Phố Fuyuki (Cần update map 2 3),ThanhPhoFuyuki
 Kaz Plain (Cần update),KazPlain
 Núi Kumotori (Tạm),NuiKumotori
