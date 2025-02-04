@@ -2,7 +2,7 @@
 Skypiea (Full chưa có vị trí boss),Skypiea
 Sa Quốc (Ngon),SaQuoc
 Thành Thiên Cung (Full chưa có vị trí boss map 1),ThanhThienCung
-Núi Bánh Bao (Cần update),NuiBanhBao
+Núi Bánh Bao (Ngon),NuiBanhBao
 Hành Tinh Namek (Full chưa có vị trí boss),HanhTinhNamek
 Thành Phố Tokyo (Ngon),ThanhPhoTokyoMoi
 Khu 11 (Chưa full map 3),Khu11
