@@ -64,7 +64,10 @@
             $.get('map.txt', function(data) {
                 let lines = data.split('\n');
                 let selectBox = $('#folder-select');
-
+            
+                // Thêm một tùy chọn mặc định không có giá trị
+                selectBox.append('<option value="" selected disabled>Chọn thư mục...</option>');
+            
                 lines.forEach(line => {
                     let parts = line.split(',');
                     if (parts.length === 2) {
@@ -75,6 +78,7 @@
                     }
                 });
             });
+
 
             // Khi click vào select box, tự động mở dropdown
             $('#folder-select').on('select2:open', function () {
